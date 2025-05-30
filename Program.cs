@@ -2,6 +2,8 @@
 {
     static void Main(string[] args)
     {
+        // #region sirve para colapsar codigo
+        #region Bases
         // Console.WriteLine("Hello World");
         // Variables();
         // DataTypes();
@@ -17,6 +19,23 @@
         // Operators();
         // Arrays();
         // InventoryMaanager();
-        Generics();
+        // Generics();
+        #endregion
+
+        #region Logic
+        // Conditionals();
+        // Loops();
+        // FizzBuzz();
+        // LoopControlExamples();
+        // LoopGame();
+        // Conversions();
+        // ConvertionToDateTime();
+        // Functions();
+        // PrintMultiplicarionTable(10);
+        // PrintMultiplicarionTable(tableLimit: 15, number:3); // argumentos nombrados
+        // PrintFactorialTable(5);
+        // Tuples();
+        // AnonymousFunctions();
+        #endregion
     }
 }
