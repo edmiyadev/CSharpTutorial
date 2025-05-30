@@ -37,5 +37,10 @@
         // Tuples();
         // AnonymousFunctions();
         #endregion
+
+        #region Classes
+        TetingClasses();
+        Properties();
+        #endregion
     }
 }
