@@ -5,6 +5,7 @@ partial class Program
         Animal animal = new Animal("En el 9");
         animal.Species = "Chofer de Carro Publico";
         animal.Age = 35;
+        animal.Category = "Fenatrano";
 
         WriteLine($"Donde vive: {animal.Habitat}, que animal es: {animal.Species}, que categoria tiene {animal.Category}");
     }

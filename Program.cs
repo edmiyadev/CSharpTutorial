@@ -39,8 +39,17 @@
         #endregion
 
         #region Classes
-        TetingClasses();
-        Properties();
+        // TetingClasses();
+        // Properties();
+        // Methods();
+        // Forzar la recoleccion de basura
+        // GC.Collect();
+        // Ejecuten los finalizadores
+        // GC.WaitForPendingFinalizers();
+
+        // ProductSalesDemo();
+        // BusFleat();
+        Inheritance();
         #endregion
     }
 }
