@@ -1,4 +1,6 @@
-﻿partial class Program
+﻿using System.Runtime.InteropServices;
+
+partial class Program
 {
     static void Main(string[] args)
     {
@@ -49,7 +51,14 @@
 
         // ProductSalesDemo();
         // BusFleat();
-        Inheritance();
+        // Inheritance();
+        // ShowEmpoyeesInformation();
+        #endregion
+
+        #region ExcepCollections
+        // HanldeExceptions(); // no esta  terminado
+        // Collections(); 
+        Linq();
         #endregion
     }
 }
